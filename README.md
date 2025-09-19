@@ -13,7 +13,9 @@ this is a personal project made to check for honeypots and other traps that can 
 1. use `db.py` as script. run it in an IDE ideally.
 
   **Libraries used are** dotenv, Web3, requests:
-  `pip install dotenv Web3 requests`
+  ```bash
+  pip install dotenv Web3 requests
+```
 
 2. add your api keys to `.env` and add that to your dotenv 
    
